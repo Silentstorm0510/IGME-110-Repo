@@ -5,7 +5,7 @@
 ---
 ## Links
 - https://www.rit.edu/
-- {RIT} (https://www.rit.edu/)
+- [RIT](https://www.rit.edu/)
 ## Colors
 - red
 - green
