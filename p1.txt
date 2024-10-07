@@ -22,8 +22,6 @@ The haptic feedback system will have vibration points across the entire hand, pr
 Hand tracking allows developers and creatives to grasp a new design concept–requiring specific hand motions. While VR controllers allow players to move their hands and grab objects through pushing buttons, this hand tracking system allows players to recreate real hand movements. This is kept track of through sensory points across the hand. These values are given through the Iron Fist software that is accessible to developers. Additionally, plugins are available for popular game engines such as Unity and Unreal. By the time of release, the Iron Fist will be fully compatible and accessible to any developer.
 The customizable controls take place on two symmetrical button pads. Because the VR gloves act as a controller, buttons are needed to work with current day games. This is implemented through 2 buttons and a bumper located near the pointer finger joint, accessible to the thumb. Additionally, developers can map button triggers to specific finger movements.
 The gloves are powered by a provided rechargeable battery compartment. This is stored on the back of the glove with enough provided space to disperse heat before it reaches the hand. The estimated battery power will be 2-4 hours. This decision was to keep the battery size small and heat low.
-Diagram A - Sensors and wiring only
-Diagram B - Mock-up of outer glove and battery compartment (button pad temp illustration)
 
 4. Possible Problems and Counterarguments
 Competition with existing competitors
